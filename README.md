@@ -12,22 +12,22 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 ## Output:
 ### 1-Norm of a Matrix
 
-<img width="649" height="298" alt="image" src="https://github.com/user-attachments/assets/2267e335-ed54-4e0a-b0bb-cde8c2766fd3" />
+<img width="744" height="267" alt="image" src="https://github.com/user-attachments/assets/c877040a-6f2b-4677-9f03-64b3ca837ccc" />
 
-<img width="860" height="308" alt="image" src="https://github.com/user-attachments/assets/5fe627c2-4029-4fb0-ba6e-5fe42c387807" />
+<img width="912" height="273" alt="image" src="https://github.com/user-attachments/assets/c4b3ad6f-23dd-4e3d-9c0f-151d44557b30" />
 
 
 ### 2-Norm of a Matrix
 
-<img width="761" height="327" alt="image" src="https://github.com/user-attachments/assets/8ea49b0b-1f1b-4a00-882b-57da3aa72821" />
+<img width="725" height="297" alt="image" src="https://github.com/user-attachments/assets/21fdeb2b-95b2-49ae-bee5-098707481f63" />
 
-<img width="754" height="329" alt="image" src="https://github.com/user-attachments/assets/59bd47f2-e135-4851-9c9d-827e29f055e7" />
+<img width="878" height="293" alt="image" src="https://github.com/user-attachments/assets/1e0f5a35-2439-46de-903f-dbfe0cff79db" />
 
 ### Infinity Norm of a Matrix
 
-<img width="832" height="299" alt="image" src="https://github.com/user-attachments/assets/c8f597e5-596c-4c83-ac10-54b64c87c9e8" />
+<img width="893" height="271" alt="image" src="https://github.com/user-attachments/assets/178ceca5-1f88-40e4-a6d1-627da5c45cf4" />
 
-<img width="795" height="298" alt="image" src="https://github.com/user-attachments/assets/0e5a8ceb-a782-415e-8af1-923456198944" />
+<img width="1000" height="283" alt="image" src="https://github.com/user-attachments/assets/44871df2-38fe-46aa-abcd-2a55867a065e" />
 
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
